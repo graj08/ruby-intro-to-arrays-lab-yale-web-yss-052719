@@ -1,4 +1,4 @@
-def instantiate_new_array 
+def instantiate_new_array
 []
 end
 
@@ -17,6 +17,3 @@ end
 def last_element (array)
   array[-1]
 end
-
-
-
